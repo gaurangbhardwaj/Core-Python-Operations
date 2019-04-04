@@ -1,4 +1,4 @@
-# CorePythonOperations
+# Core python operations
 
 Simple or core operation of python inbuild and user-defined functionality
 
